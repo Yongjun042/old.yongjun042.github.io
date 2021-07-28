@@ -18,7 +18,7 @@ image:
 
 탭 +옆에 있는 아래 화살표를 눌러 설정을 열 수 있습니다. json파일로 되어있습니다.
 
- ``` json 
+ ``` json
 {
     //폰트 설정
     "font-family": "Cascadia Code PL",
