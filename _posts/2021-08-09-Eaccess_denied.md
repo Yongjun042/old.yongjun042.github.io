@@ -1,5 +1,5 @@
 ---
-title: Error: listen EACCES: permission denied 해결법
+title: Error listen EACCES permission denied 해결법
 author: Yongjun042
 date: 2021-08-09 21:09:00 +0900
 categories: [Blog, Develope]
