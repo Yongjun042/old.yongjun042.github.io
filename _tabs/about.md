@@ -6,6 +6,8 @@ order: 4
 
 # 박용준
 ---
+[소개 페이지](https://yongjun042.github.io/portfolio/ "소개 페이지")
+
 yongjun042@gmail.com
 
 ## 사용 가능한 언어
@@ -28,8 +30,8 @@ C#을 이용한 동영상 플레이어 다국어 지원
 [Github](https://github.com/Yongjun042/EmaPlayer "Github")
 
 ---
-### QyantryDev-website
-ReactTs를 이용한 홈페이지 (제작중)
+### QuantryDev-website
+ReactTs를 이용한 홈페이지 샘플
 
 ---
 ### Part of car segmentation using AI
@@ -64,5 +66,3 @@ JS를 이용한 지킬 테마
 ### 전역일 계산기
 C#을 이용한 UWP 앱
 [윈도우 스토어](https://www.microsoft.com/ko-kr/p/%EC%A0%84%EC%97%AD%EC%9D%BC-%EA%B3%84%EC%82%B0%EA%B8%B0/9n321jjsmlvb "윈도우 스토어")
-
-
