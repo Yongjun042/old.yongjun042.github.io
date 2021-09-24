@@ -47,6 +47,13 @@ Accessibility_inspector, Simulation 페이지 번역(리뷰 대기중)
 
 ---
 
+### 알약 검색 도우미
+
+알약 사진에서 알약의 특징을 추출해 검색을 용이하게 해줌
+[Github](https://github.com/Yongjun042/HCITeam2)
+
+---
+
 ### EmaPlayer
 
 C#을 이용한 특정 블루레이 파일 전용 동영상 플레이어 다국어 지원
