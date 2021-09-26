@@ -12,7 +12,7 @@ yongjun042@gmail.com
 
 ## 사용 가능한 언어
 
-C#, C++, JS, TS, Python, SQL
+C#, C++, JS, TS, Python, SQL, 
 
 ## 학력
 
