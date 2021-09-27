@@ -24,6 +24,8 @@ C#, C++, JS, TS, Python, SQL
 
 2016 ACM-ICPC(ACM International Collegiate Programming Contest) Daejeon Regional Final Honorable Mention
 
+2021년 한국정보기술학회 대학생논문경진대회 동상
+
 ## 프로젝트
 
 ### React-Acrylic-Ts
