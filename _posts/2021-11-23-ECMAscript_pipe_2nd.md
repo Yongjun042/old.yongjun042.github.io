@@ -3,7 +3,7 @@ title: ECMAScript 파이프라인 제안서 2단계 진입
 author: Yongjun042
 date: 2021-11-23 11:54:00 +0900
 categories: [Blog, Develope]
-tags: [JavaScript, ECMAScript, pipe]
+tags: [javascript, ecmascript, pipe]
 ---
 [링크](https://github.com/tc39/proposal-pipeline-operator)
 
